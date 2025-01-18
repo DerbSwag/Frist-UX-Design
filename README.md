@@ -8,10 +8,6 @@ UX Design
 I'm a full stack developer...
 
 
-## 🔗 Links
-
-
-
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
