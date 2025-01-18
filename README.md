@@ -5,7 +5,7 @@ UX Design
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a IT SUPPORT
 
 
 ## Other Common Github Profile Sections
