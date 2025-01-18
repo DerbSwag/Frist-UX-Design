@@ -27,7 +27,7 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS , figma , basic Network 
 
 
 ## FAQ
